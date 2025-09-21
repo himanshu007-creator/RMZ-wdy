@@ -1,0 +1,22 @@
+[{
+        "id": "user-photographer-1",
+        "email": "photographer@test.com",
+        "password": "password123",
+        "vendorType": "photographer",
+        "name": "Sarah Johnson Photography"
+    },
+    {
+        "id": "user-caterer-1",
+        "email": "caterer@test.com",
+        "password": "password123",
+        "vendorType": "caterer",
+        "name": "Elite Wedding Catering"
+    },
+    {
+        "id": "user-florist-1",
+        "email": "florist@test.com",
+        "password": "password123",
+        "vendorType": "florist",
+        "name": "Bloom & Blossom Florals"
+    }
+]
